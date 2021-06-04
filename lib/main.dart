@@ -68,7 +68,7 @@ class _EmojiPickerState extends State<EmojiPicker>
     '😊',
     '🥰',
   ];
-  static const _scaleDuration = Duration(milliseconds: 450);
+  static const _scaleDuration = Duration(milliseconds: 700);
   late AnimationController _animationController;
 
   @override
